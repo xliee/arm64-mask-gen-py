@@ -1,5 +1,7 @@
 # ARM64 Mask Generator - Python Wrapper
 
+[![PyPI version](https://badge.fury.io/py/arm64-mask-gen-py.svg)](https://badge.fury.io/py/arm64-mask-gen-py) [![CI](https://github.com/xliee/arm64-mask-gen-py/actions/workflows/CI.yml/badge.svg)](https://github.com/xliee/arm64-mask-gen-py/actions/workflows/CI.yml)
+
 A PyO3 wrapper around the [`arm64-mask-gen`](https://github.com/xliee/arm64-mask-gen) Rust library, providing Python bindings for ARM64 assembly pattern and mask generation.
 
 ## Features
